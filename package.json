@@ -1,5 +1,5 @@
 {
-  "name": "sjcl",
+  "name": "sjcl-aws",
   "version": "1.0.7",
   "description": "Stanford Javascript Crypto Library",
   "main": "sjcl.js",
@@ -9,9 +9,10 @@
     "high-level",
     "crypto"
   ],
+  "homepage": "https://github.com/borisirota/sjcl-aws"
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitwiseshiftleft/sjcl.git"
+    "url": "https://github.com/borisirota/sjcl-aws.git"
   },
   "scripts": {
     "test": "make test",
