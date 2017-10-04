@@ -9,7 +9,7 @@
     "high-level",
     "crypto"
   ],
-  "homepage": "https://github.com/borisirota/sjcl-aws"
+  "homepage": "https://github.com/borisirota/sjcl-aws",
   "repository": {
     "type": "git",
     "url": "https://github.com/borisirota/sjcl-aws.git"
